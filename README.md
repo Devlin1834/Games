@@ -1,4 +1,2 @@
-# misc
+# Games
 My starter projects
-
-stuff
