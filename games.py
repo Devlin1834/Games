@@ -6,6 +6,11 @@ Created on Fri Mar  3 18:34:52 2017
 """
 
 ## Package Imports ##
+#  Games is designed to run all the games I have written 
+#  When a game sets over = True, it ends the game and sends it back to the main screen
+#  Every game in this repository contains an over term for this reason
+
+
 
 import madlib as mad
 import hangman as hang
